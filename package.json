@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/farawayCC/DecReview/issues"
   },
-  "homepage": "https://github.com/farawayCC/DecReview#readme",
+  "homepage": "https://farawayCC.github.io/DecReview",
   "dependencies": {
     "fs-extra": "^7.0.1",
     "ganache-cli": "^6.2.5",
