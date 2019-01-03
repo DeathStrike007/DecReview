@@ -2,10 +2,10 @@
   "name": "decreview",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "mocha",
-    "dev": "node server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
